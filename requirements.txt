@@ -1,1 +1,2 @@
 arcgis==1.8.0.post1
+esridump==1.9.3
